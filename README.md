@@ -12,7 +12,7 @@ It is a mobile application that I designed to recorde your notes
 You can take a look at the pictures in the Images folder.
 You can also download the application from Google Drive ( https://drive.google.com/drive/folders/1YqpM9pqyd8SwHRy3Pi02YUSkfRPCyeoP )
 
-Features :-
+## Features :-
 
 Splash Screen
 Statemangement ( Bloc Cubit )
@@ -20,7 +20,7 @@ Local Database ( Using Hive )
 Simple Clean Arc
 
 
-Screens :-
+## Screens :-
 
 ![Screenshot from 2023-06-26 18-31-17](https://github.com/P-A-NN-D-A/Note-App/assets/107498555/8f3cd61a-34b5-466f-8e9b-a679768b9375)
 ![Screenshot from 2023-06-26 18-31-22](https://github.com/P-A-NN-D-A/Note-App/assets/107498555/8f60ce5e-5b48-43e8-8840-9db5d9fb552e)
