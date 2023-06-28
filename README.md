@@ -12,10 +12,10 @@ You can also download the application from Google Drive ( https://drive.google.c
 
 ## Features :-
 
-Splash Screen
-Statemangement ( Bloc Cubit )
-Local Database ( Using Hive )
-Simple Clean Arc
+- Splash Screen
+- Statemangement ( Bloc Cubit )
+- Local Database ( Using Hive )
+- Simple Clean Arc
 
 
 ## Screens :-
